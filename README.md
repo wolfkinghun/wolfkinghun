@@ -1,4 +1,4 @@
-![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2gwcXE4dGYxZDMyMDkzeGRkZGJ0azAxOG1xaWEzZG44MTdmc201YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+![My GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47o6xqbaupswrdgfsofw6003568t0pqpl0p5plgswi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # 💫 About Me / Rólam:
 🛠 **I’m currently working on:**  
