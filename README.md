@@ -1,3 +1,5 @@
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2gwcXE4dGYxZDMyMDkzeGRkZGJ0azAxOG1xaWEzZG44MTdmc201YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 💫 About Me / Rólam:
 🛠 **I’m currently working on:**  
 A full-stack portfolio website using React, TailwindCSS, and Firebase.  
